@@ -2,6 +2,8 @@
 
 A modern React application that combines task management capabilities with educational resources, built using React, Tailwind CSS, and Vite.
 
+👉 [View Deployed App on Vercel](https://learn-track-seven.vercel.app/)
+
 ## 🚀 Features
 
 - **Task Management**
@@ -106,3 +108,4 @@ Here’s a preview of **LearnTrack** in action:
 
 ![LearnTrack Dashboard](./public/screenshots/dashboard.png)
 ![LearnTrack Learning](./public/screenshots/learning.png)
+
